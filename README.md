@@ -52,13 +52,59 @@ Every transition is under 2 seconds. No cinematic dissolves. No flashy motion gr
 
 ---
 
+## Data-Driven Insights (Beyond the Visuals)
+
+### "Introducing" is worth 5x more than "now available"
+
+Videos that announce something new ("Introducing Claude Cowork") average **23.6M views**. Videos that extend something existing ("Claude is now available in Excel") average **4.6M**. The word "Introducing" isn't just copy — it signals "new species" vs "version update."
+
+### 60–90 seconds is the sweet spot — then it drops off a cliff
+
+| Duration | Avg Views |
+|----------|-----------|
+| <15s | 3.0M |
+| 30–60s | 7.3M |
+| **60–90s** | **15.6M** |
+| >90s | 2.9M |
+
+60–90s gives enough room for a full narrative arc (hook → demo → magic → result). Under 30s feels incomplete. Over 90s loses attention. The sweet spot is tight but real.
+
+### Pulse release, not steady drip
+
+77 videos across 222 days = 1 every 2.9 days on average. But 77% of days have zero releases. Anthropic uses **burst campaigns** — 3–5 day windows with 2–3 videos per day, then quiet periods.
+
+The most extreme: February 2026 saw 23 videos in one month (30% of all content), clustered around Opus 4.6 and Cowork launches. The single most productive day: February 20 — 7 videos in 24 hours.
+
+**Why pulse works:** platform algorithms reward topic concentration. A burst of related videos creates a "Claude is everywhere" perception that a steady drip can't match.
+
+### Breadth vs. depth: two different games
+
+- **Breadth play** (brand exposure): Computer Use — 77.9M views, 14,467 retweets. Millions saw it, few saved it.
+- **Depth play** (developer loyalty): Agent View — 2.3M views, but 0.32% bookmark rate and 686 replies. Fewer viewers, but each one deeply engaged.
+
+Both matter. Breadth builds the brand. Depth builds the community. Anthropic runs both tracks simultaneously.
+
+### Monday is launch day
+
+| Day | Avg Views |
+|-----|-----------|
+| **Monday** | **12.6M** |
+| Friday | 9.4M |
+| Tue–Thu | 4.7–5.5M |
+
+Monday posts ride the weekend-to-workday attention wave. Friday posts get weekend amplification.
+
+---
+
 ## What This Repo Contains
 
 ```
 analysis/
-  METHODOLOGY.md        Full methodology: pipeline, design system, narrative
-                        frameworks, motion grammar, hooks, engagement formula,
-                        competitive analysis, psychology, audio, checklists
+  METHODOLOGY.md        Full methodology (17 chapters): pipeline, design system,
+                        narrative frameworks, motion grammar, hooks, engagement
+                        formula, data-driven multi-dimensional analysis,
+                        competitive analysis, psychology, release cadence,
+                        audio strategy, production checklists, adaptation guide
   ANALYSIS.md           Batch analysis of visual styles across 4 time periods
   DETAILED_ANALYSIS.md  Frame-by-frame breakdowns of 13 key videos
 
@@ -92,9 +138,9 @@ Warm canvas (#FBFAF6) + Dark UI (#1A1A2E) + Terracotta accent (#D67C64)
 | Mid (2–10M) | 2–7M | 11 | Standard production, decent storytelling |
 | Low (<2M) | <2M | 53 | Niche audience or low information density |
 
-**What correlates with high views:** 4K resolution, minimal hooks, features that cross professional boundaries, 70–80s pacing, left-to-right spatial composition.
+**What correlates with high views:** 4K resolution (9.2M avg vs 8.5M for 1080p), minimal hooks, features that cross professional boundaries, 60–90s pacing (15.6M avg), "Introducing" framing (23.6M avg), Monday release (12.6M avg), left-to-right spatial composition.
 
-**What doesn't correlate:** Video length, aspect ratio, developer vs. general audience.
+**What doesn't correlate:** Extreme shortness (<15s avg 3.0M, not better), aspect ratio, developer vs. general audience, individual production cost.
 
 ---
 
@@ -103,14 +149,17 @@ Warm canvas (#FBFAF6) + Dark UI (#1A1A2E) + Terracotta accent (#D67C64)
 ```
 2025 Q4  Floating app windows on brand backgrounds, simulated cursors
          → Terracotta + dark mode established as standard
+         → Slow cadence: 1 video per week, 21 videos in 3 months
 
 2026 Q1  3D device mockups (phone/laptop/monitor) + dark UI + terracotta accents
          → "Keep Thinking" brand philosophy emerges
          → Cowork series defines "AI for non-developers" narrative
+         → Burst campaigns begin: Feb alone = 23 videos
 
 2026 Q2  Spatial narratives (left-to-right flow), hand-drawn squiggles
          → "Less is more" hooks proven (77.9M, 63.5M)
          → Product videos become brand philosophy statements
+         → Cadence stabilizes: pulse 3–5 days, then quiet week
 ```
 
 **The trajectory:** from "look what Claude can do" → "imagine what you could do."
@@ -133,7 +182,7 @@ Claude's visual language is a deliberate departure from the AI industry's defaul
 
 ## Adapt It to Your Product
 
-**Borrow directly:** hard cuts, no logo intro, no CTA, sentence-case titles with periods, 500/600/700 font weights, task sequences, 3–8s scenes, anti-pattern list.
+**Borrow directly:** hard cuts, no logo intro, no CTA, sentence-case titles with periods, 500/600/700 font weights, task sequences, 3–8s scenes, anti-pattern list, pulse release cadence, 60–90s sweet spot.
 
 **Adapt to your brand:** color system (use your brand colors but keep the warm canvas + dark UI hierarchy), typography (use your brand font but keep the size hierarchy), device mockups (use screenshots with shadows if you can't do 3D renders).
 
