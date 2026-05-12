@@ -2,6 +2,7 @@
 
 77개의 @claudeai 공식 동영상(2025년 10월 ~ 2026년 5월)에 대한 체계적 분석. 제작 방법론, 디자인 시스템, 내러티브 프레임워크, 인게이지먼트 패턴을 추출했습니다.
 
+ **Languages:** [English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [**한국어**](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md)
 
 ---
 
