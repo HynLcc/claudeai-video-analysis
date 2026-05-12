@@ -2,7 +2,7 @@
 
 77本の@claudeai公式動画（2025年10月〜2026年5月）の体系的分析。制作方法論、デザインシステム、ナラティブフレームワーク、エンゲージメントパターンを抽出。
 
-[English](README.md) | [中文](README.zh.md) | [完全な方法論ドキュメント →](analysis/METHODOLOGY.md)
+[English](README.md) | [中文](README.zh.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [完全な方法論ドキュメント →](analysis/METHODOLOGY.ja.md)
 
 ---
 

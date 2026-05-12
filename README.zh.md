@@ -2,7 +2,7 @@
 
 对 77 个 @claudeai 官方视频（2025-10 至 2026-05）的系统性分析。提取了制作方法论、设计系统、叙事框架、互动规律。
 
-[English](README.md) | [日本語](README.ja.md) | [完整方法论文档 →](analysis/METHODOLOGY.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Français](README.fr.md) | [Português](README.pt.md) | [完整方法论 →](analysis/METHODOLOGY.md)
 
 ---
 
