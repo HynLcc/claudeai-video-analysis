@@ -6,6 +6,42 @@ Systematic analysis of 77 official Claude product videos (Oct 2025 – May 2026)
 
 ---
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [The 5 Big Insights](#the-5-big-insights)
+- [Data-Driven Insights (Beyond the Visuals)](#data-driven-insights-beyond-the-visuals)
+- [What This Repo Contains](#what-this-repo-contains)
+- [The Production Formula (TL;DR)](#the-production-formula-tldr)
+- [Engagement Tiers (77 videos analyzed)](#engagement-tiers-77-videos-analyzed)
+- [The Visual Identity That Took 8 Months to Build](#the-visual-identity-that-took-8-months-to-build)
+- [Competitive Positioning](#competitive-positioning)
+- [Adapt It to Your Product](#adapt-it-to-your-product)
+
+- [1. Production Pipeline](#1-production-pipeline)
+- [2. Design System](#2-design-system)
+- [3. Narrative Frameworks](#3-narrative-frameworks)
+- [4. Transitions and Motion Grammar](#4-transitions-and-motion-grammar)
+- [5. Hook Architecture (First 3 Seconds Make or Break)](#5-hook-architecture-first-3-seconds-make-or-break)
+- [6. Rhythm Engine](#6-rhythm-engine)
+- [7. Engagement Formulas](#7-engagement-formulas)
+- [8. Production Tier Guide](#8-production-tier-guide)
+- [9. Anti-Pattern Checklist](#9-anti-pattern-checklist)
+- [10. Temporal Evolution Analysis: 18x View Growth in 8 Months](#10-temporal-evolution-analysis-18x-view-growth-in-8-months)
+- [11. Virality Analysis: Why the Top 10 Exploded](#11-virality-analysis-why-the-top-10-exploded)
+- [12. Data-Driven Multidimensional Analysis](#12-data-driven-multidimensional-analysis)
+- [13. Competitor Video Strategy Comparison](#13-competitor-video-strategy-comparison)
+- [14. Engagement Psychology: Why These Patterns Work](#14-engagement-psychology-why-these-patterns-work)
+- [15. Audio/Soundtrack Strategy](#15-audiosoundtrack-strategy)
+- [16. Practical Checklist](#16-practical-checklist)
+- [17. Adaptation Guide: How to Apply This to Your Own Product](#17-adaptation-guide-how-to-apply-this-to-your-own-product)
+- [Appendix A: Video Type Quick Reference](#appendix-a-video-type-quick-reference)
+- [Appendix B: 30-Second Feature Video Template](#appendix-b-30-second-feature-video-template)
+- [Appendix C: 60-Second Feature Video Template](#appendix-c-60-second-feature-video-template)
+
+</details>
+
+
 ## The 5 Big Insights
 
 ### 1. They never record real screens — they rebuild perfect UIs

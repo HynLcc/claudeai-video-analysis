@@ -6,6 +6,39 @@ Análisis sistemático de 77 videos oficiales de producto de Claude (oct 2025 �
 
 ---
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [5 grandes insights](#5-grandes-insights)
+- [Insights basados en datos](#insights-basados-en-datos)
+- [Fórmula de producción (versión TL;DR)](#fórmula-de-producción-versión-tldr)
+- [Posicionamiento competitivo](#posicionamiento-competitivo)
+- [Adáptalo a tu producto](#adáptalo-a-tu-producto)
+
+- [1. Pipeline de Producción](#1-pipeline-de-producción)
+- [2. Sistema de Diseño](#2-sistema-de-diseño)
+- [3. Marco Narrativo](#3-marco-narrativo)
+- [4. Transiciones y Gramática de Animación](#4-transiciones-y-gramática-de-animación)
+- [5. Arquitectura de Hook (los primeros 3 segundos lo deciden todo)](#5-arquitectura-de-hook-los-primeros-3-segundos-lo-deciden-todo)
+- [6. Motor de Ritmo](#6-motor-de-ritmo)
+- [7. Fórmulas de Interacción](#7-fórmulas-de-interacción)
+- [8. Guía de Niveles de Producción](#8-guía-de-niveles-de-producción)
+- [9. Lista de Anti-patrones](#9-lista-de-anti-patrones)
+- [10. Análisis de Evolución Temporal: 18x las vistas en 8 meses](#10-análisis-de-evolución-temporal-18x-las-vistas-en-8-meses)
+- [11. Análisis de Popularidad: Por qué Explotan los Top 10](#11-análisis-de-popularidad-por-qué-explotan-los-top-10)
+- [12. Análisis Multidimensional Basado en Datos](#12-análisis-multidimensional-basado-en-datos)
+- [13. Comparación de Estrategias de Video con la Competencia](#13-comparación-de-estrategias-de-video-con-la-competencia)
+- [14. Psicología de la Interacción: Por Qué Estos Patrones Funcionan](#14-psicología-de-la-interacción-por-qué-estos-patrones-funcionan)
+- [15. Estrategia de Audio/Banda Sonora](#15-estrategia-de-audiobanda-sonora)
+- [16. Lista de Verificación Práctica](#16-lista-de-verificación-práctica)
+- [17. Guía de Adaptación: Cómo Aplicarlo a Tu Propio Producto](#17-guía-de-adaptación-cómo-aplicarlo-a-tu-propio-producto)
+- [Apéndice A: Referencia Rápida de Tipos de Video](#apéndice-a-referencia-rápida-de-tipos-de-video)
+- [Apéndice B: Plantilla de Video de Función de 30 Segundos](#apéndice-b-plantilla-de-video-de-función-de-30-segundos)
+- [Apéndice C: Plantilla de Video de Función de 60 Segundos](#apéndice-c-plantilla-de-video-de-función-de-60-segundos)
+
+</details>
+
+
 ## 5 grandes insights
 
 ### 1. Nunca graban pantallas reales — reconstruyen UIs perfectas

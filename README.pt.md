@@ -6,6 +6,39 @@ Análise sistemática de 77 vídeos oficiais de produto da Claude (out 2025 – 
 
 ---
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [5 grandes insights](#5-grandes-insights)
+- [Insights baseados em dados](#insights-baseados-em-dados)
+- [Fórmula de produção (versão TL;DR)](#fórmula-de-produção-versão-tldr)
+- [Posicionamento competitivo](#posicionamento-competitivo)
+- [Adapte ao seu produto](#adapte-ao-seu-produto)
+
+- [1. Pipeline de Produção](#1-pipeline-de-produção)
+- [2. Sistema de Design](#2-sistema-de-design)
+- [3. Frameworks Narrativos](#3-frameworks-narrativos)
+- [4. Transições e Gramática de Animação](#4-transições-e-gramática-de-animação)
+- [5. Hook Architecture (Os primeiros 3 segundos decidem tudo)](#5-hook-architecture-os-primeiros-3-segundos-decidem-tudo)
+- [6. Motor de Ritmo](#6-motor-de-ritmo)
+- [7. Fórmulas de Engajamento](#7-fórmulas-de-engajamento)
+- [8. Guia de Níveis de Produção](#8-guia-de-níveis-de-produção)
+- [9. Checklist de Anti-Padrões](#9-checklist-de-anti-padrões)
+- [10. Análise de Evolução Temporal: 18x mais reproduções em 8 meses](#10-análise-de-evolução-temporal-18x-mais-reproduções-em-8-meses)
+- [11. Análise de Popularidade: Por que o Top 10 Explodiu](#11-análise-de-popularidade-por-que-o-top-10-explodiu)
+- [12. Análise Multidimensional Orientada por Dados](#12-análise-multidimensional-orientada-por-dados)
+- [13. Comparação de Estratégias de Vídeo com Concorrentes](#13-comparação-de-estratégias-de-vídeo-com-concorrentes)
+- [14. Psicologia de Engajamento: Por que Esses Padrões Funcionam](#14-psicologia-de-engajamento-por-que-esses-padrões-funcionam)
+- [15. Estratégia de Áudio/Trilha Sonora](#15-estratégia-de-áudiotrilha-sonora)
+- [16. Checklist Prático](#16-checklist-prático)
+- [17. Guia de Adaptação: Como Usar no Seu Próprio Produto](#17-guia-de-adaptação-como-usar-no-seu-próprio-produto)
+- [Apêndice A: Referência Rápida de Tipos de Vídeo](#apêndice-a-referência-rápida-de-tipos-de-vídeo)
+- [Apêndice B: Template de Vídeo de Funcionalidade 30s](#apêndice-b-template-de-vídeo-de-funcionalidade-30s)
+- [Apêndice C: Template de Vídeo de Funcionalidade 60s](#apêndice-c-template-de-vídeo-de-funcionalidade-60s)
+
+</details>
+
+
 ## 5 grandes insights
 
 ### 1. Eles nunca gravam telas reais — reconstróem UIs perfeitas

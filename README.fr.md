@@ -6,6 +6,39 @@ Analyse systématique de 77 vidéos produit officielles de Claude (oct. 2025 –
 
 ---
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [5 grands insights](#5-grands-insights)
+- [Insights basés sur les données](#insights-basés-sur-les-données)
+- [Formule de production (version TL;DR)](#formule-de-production-version-tldr)
+- [Positionnement concurrentiel](#positionnement-concurrentiel)
+- [Adaptez-le à votre produit](#adaptez-le-à-votre-produit)
+
+- [1. Pipeline de Production](#1-pipeline-de-production)
+- [2. Systeme de Design](#2-systeme-de-design)
+- [3. Cadres Narratifs](#3-cadres-narratifs)
+- [4. Transitions et Grammaire des Animations](#4-transitions-et-grammaire-des-animations)
+- [5. Architecture Hook (les 3 premieres secondes decident de tout)](#5-architecture-hook-les-3-premieres-secondes-decident-de-tout)
+- [6. Moteur de Rythme](#6-moteur-de-rythme)
+- [7. Formules d'Engagement](#7-formules-dengagement)
+- [8. Guide des Niveaux de Production](#8-guide-des-niveaux-de-production)
+- [9. Liste des Anti-Patterns](#9-liste-des-anti-patterns)
+- [10. Analyse d'Evolution Temporelle : Volume de vues multiplie par 18 en 8 mois](#10-analyse-devolution-temporelle-volume-de-vues-multiplie-par-18-en-8-mois)
+- [11. Analyse de Viralite : Pourquoi le Top 10 explose](#11-analyse-de-viralite-pourquoi-le-top-10-explose)
+- [12. Analyse Multi-Dimensionnelle Axee sur les Donnees](#12-analyse-multi-dimensionnelle-axee-sur-les-donnees)
+- [13. Comparaison des Strategies Video des Concurrents](#13-comparaison-des-strategies-video-des-concurrents)
+- [14. Psychologie de l'Engagement : Pourquoi ces modeles fonctionnent](#14-psychologie-de-lengagement-pourquoi-ces-modeles-fonctionnent)
+- [15. Strategie Audio / Bande Sonore](#15-strategie-audio-bande-sonore)
+- [16. Liste de Verification Pratique](#16-liste-de-verification-pratique)
+- [17. Guide d'Adaptation : Comment l'appliquer a votre propre produit](#17-guide-dadaptation-comment-lappliquer-a-votre-propre-produit)
+- [Annexe A : Reference rapide des types de videos](#annexe-a-reference-rapide-des-types-de-videos)
+- [Annexe B : Template de video fonctionnalite 30 secondes](#annexe-b-template-de-video-fonctionnalite-30-secondes)
+- [Annexe C : Template de video fonctionnalite 60 secondes](#annexe-c-template-de-video-fonctionnalite-60-secondes)
+
+</details>
+
+
 ## 5 grands insights
 
 ### 1. Ils ne filment jamais de vrais écrans — ils reconstruisent des UI parfaits
