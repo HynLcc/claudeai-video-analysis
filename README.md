@@ -2,7 +2,7 @@
 
 Systematic analysis of 77 official Claude product videos (Oct 2025 – May 2026). Extracted methodology, design system, narrative frameworks, and engagement patterns.
 
-[中文版方法论完整文档 →](analysis/METHODOLOGY.md)
+[中文](README.zh.md) | [日本語](README.ja.md) | [完整方法论文档 →](analysis/METHODOLOGY.md)
 
 ---
 
