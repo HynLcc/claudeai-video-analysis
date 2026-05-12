@@ -1,6 +1,6 @@
 # How Anthropic Makes Videos That Get 78M Views
 
-<p align="center"><img src="social-preview.svg" alt="77 videos analyzed · 17-chapter methodology · 7 languages" width="640"></p>
+<p align="center"><img src="social-preview.svg" alt="77 videos analyzed · 17-chapter methodology · 7 languages" width="100%"></p>
 
 Systematic analysis of 77 official Claude product videos (Oct 2025 – May 2026). Extracted methodology, design system, narrative frameworks, and engagement patterns.
 
