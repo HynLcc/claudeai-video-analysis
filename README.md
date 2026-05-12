@@ -2,7 +2,7 @@
 
 Systematic analysis of 77 official Claude product videos (Oct 2025 – May 2026). Extracted methodology, design system, narrative frameworks, and engagement patterns.
 
-[中文版方法论完整文档 →](METHODOLOGY.md)
+[中文版方法论完整文档 →](analysis/METHODOLOGY.md)
 
 ---
 
@@ -54,13 +54,18 @@ Every transition is under 2 seconds. No cinematic dissolves. No flashy motion gr
 
 ## What This Repo Contains
 
-| File | What it is |
-|------|-----------|
-| [METHODOLOGY.md](METHODOLOGY.md) | Full methodology: production pipeline, design system, narrative frameworks, motion grammar, pacing rules, hook architecture, engagement formula, anti-patterns, competitive analysis, psychology of engagement, audio strategy, production checklists |
-| [ANALYSIS.md](ANALYSIS.md) | Raw batch analysis of visual styles across 4 time periods |
-| [DETAILED_ANALYSIS.md](DETAILED_ANALYSIS.md) | Frame-by-frame breakdowns of 13 key videos + macro theme analysis |
-| [VIDEO_CATALOG.md](VIDEO_CATALOG.md) | Complete catalog of all 77 videos with metadata |
-| [metadata.json](metadata.json) | Structured data: tweet IDs, views, likes, bookmarks, durations, resolutions |
+```
+analysis/
+  METHODOLOGY.md        Full methodology: pipeline, design system, narrative
+                        frameworks, motion grammar, hooks, engagement formula,
+                        competitive analysis, psychology, audio, checklists
+  ANALYSIS.md           Batch analysis of visual styles across 4 time periods
+  DETAILED_ANALYSIS.md  Frame-by-frame breakdowns of 13 key videos
+
+data/
+  VIDEO_CATALOG.md      Complete catalog of all 77 videos with metadata
+  metadata.json         Structured data: tweet IDs, views, likes, etc.
+```
 
 ---
 
