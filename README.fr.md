@@ -1234,3 +1234,17 @@ N'imitez pas l'"apparence" de Claude, imitez la "logique de decision" de Claude 
 | 55-60s | Fermeture logo | Final Card
 
 ---
+
+## TODO / Notes Personnelles
+
+### L'avantage concurrentiel d'Anthropic n'est pas seulement le modele — c'est qu'on se souvienne d'eux
+
+La version courante : Anthropic a un bon produit, donc forcement un bon marketing. Apres avoir regarde 77 videos, je pense le contraire : **le marketing est la ligne principale.**
+
+L'equipe marketing est professionnelle. 77 videos avec une precision de production et une coherence strategique qui ne ressemble pas a quelque chose filme a la va-vite par des ingenieurs. Le rythme de publication suit le playbook d'une entreprise mediatique — campagnes en rafale, pas goutte-a-goutte regulier. Les videos d'annonces de nouvelles fonctionnalites font 5x plus de vues que celles de disponibilite de fonctionnalites.
+
+L'objectif est clair, tout tourne autour. "Keep Thinking" n'est pas un slogan accroche au mur — c'est une strategie de contenu. Palette chaude, cuts secs, pas d'intro logo, pas de CTA. Tout transmet le meme message : on n'a pas besoin de se vendre. 77 videos, zero exception.
+
+Memoire de marque. Fond blanc chaud, accent terracotta, UI sombre — tu sais que c'est Claude des la premiere frame. 77 videos martelant le meme style visuel jusqu'au reflexe. Maintenant quand on dit "video IA aux tons chauds," c'est Claude qui vient en premier. La memoire de marque ne se construit pas avec un logo — elle se construit par la repetition.
+
+---

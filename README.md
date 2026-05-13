@@ -1302,3 +1302,17 @@ Don't mimic Claude's "appearance," mimic Claude's "decision logic":
 | 55-60s | Logo ending | Final Card
 
 ---
+
+## TODO / Personal Notes
+
+### Anthropic's core competitive advantage isn't just the model — it's making people remember them
+
+Common take: Anthropic has great products so naturally great marketing. After watching 77 videos, I think the opposite: **marketing is the main line.**
+
+The marketing team is professional. 77 videos with production precision and strategic consistency that doesn't look like something engineers casually recorded. Publishing cadence follows a media company playbook — burst campaigns, not steady drip. New feature announcements get 5x the views of feature availability posts.
+
+The goal is clear, everything revolves around it. "Keep Thinking" isn't a slogan on a wall — it's a content strategy. Warm color palettes, hard cuts, no logo intro, no CTA, all conveying the same message: we don't need to sell ourselves. 77 videos, zero exceptions.
+
+Brand memory. Warm white background, terracotta accent, dark UI — you know it's Claude the moment you see the first frame. 77 videos hammering the same visual style until it's reflexive. Now when someone says "warm-toned AI video," Claude is the first thing that comes to mind. Brand memory isn't built by a logo — it's built by repetition.
+
+---
