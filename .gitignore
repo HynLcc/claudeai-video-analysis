@@ -23,3 +23,16 @@ node_modules/
 
 # Generated
 content-cards/
+
+# Video
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Local only
+reference/
+methodology-cards/
